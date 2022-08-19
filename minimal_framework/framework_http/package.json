@@ -1,0 +1,10 @@
+{
+  "name": "framework-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
