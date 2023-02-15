@@ -16,6 +16,7 @@
   "dependencies": {
     "@artus/core": "^1.0.0-beta.21",
     "find-my-way": "^7.0.0",
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.1.13",
+    "tslib": "^2.5.0"
   }
 }
